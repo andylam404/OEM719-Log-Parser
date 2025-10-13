@@ -1,0 +1,14 @@
+# OEM719 Log Parser - Python Requirements
+# No external dependencies required - uses only Python standard library
+
+# Python Version: 3.7+
+# All dependencies are built-in standard library modules:
+# - os
+# - csv
+# - re
+# - datetime
+# - typing
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
