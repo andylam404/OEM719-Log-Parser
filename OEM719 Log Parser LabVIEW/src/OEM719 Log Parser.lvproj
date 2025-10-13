@@ -61,6 +61,9 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Create CSVs.vi" Type="VI" URL="../Create CSVs.vi"/>
+		<Item Name="CSV Read Config.vi" Type="VI" URL="../CSV Read Config.vi"/>
+		<Item Name="Log Parse.vi" Type="VI" URL="../Log Parse.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">

@@ -1,0 +1,1 @@
+Time,Message,Port,Sequence,% Idle Time,Time Status,Week,Seconds,Receiver Status,Reserved,Receiver S/W Version,P-sol status,pos type,P-X (m),P-Y (m),P-Z (m),P-X ó (m),P-Y ó (m),P-Z ó (m),V-sol status,vel type,V-X (m/s),V-Y (m/s),V-Z (m/s),V-X ó (m/s),V-Y ó (m/s),V-Z ó (m/s),stn ID,V-latency (s),diff_age (s),sol_age (s),#SVs,#ggL1,#solnMultiSVs
