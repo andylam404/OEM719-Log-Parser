@@ -65,6 +65,7 @@
 		<Item Name="CSV Read Config.vi" Type="VI" URL="../CSV Read Config.vi"/>
 		<Item Name="Log Parse.vi" Type="VI" URL="../Log Parse.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="temp.vi" Type="VI" URL="../temp.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
