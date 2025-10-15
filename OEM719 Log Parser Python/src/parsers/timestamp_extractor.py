@@ -22,9 +22,7 @@ class TimestampExtractor:
 
     def _format_gps_time(self, week: int, seconds: float) -> str:
         gps_epoch = datetime(1980, 1, 6)
-
         total_seconds = week * 7 * 24 * 3600 + seconds
-
         try:
             from datetime import timedelta
             dt = gps_epoch + timedelta(seconds=total_seconds)

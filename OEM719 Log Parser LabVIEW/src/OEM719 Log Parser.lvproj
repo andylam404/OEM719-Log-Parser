@@ -69,6 +69,8 @@
 		<Item Name="HWMONITOR.vi" Type="VI" URL="../helper/HWMONITOR.vi"/>
 		<Item Name="Log Parse.vi" Type="VI" URL="../Log Parse.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="RAW DATA.vi" Type="VI" URL="../helper/RAW DATA.vi"/>
+		<Item Name="Stop Parse.vi" Type="VI" URL="../config/Stop Parse.vi"/>
 		<Item Name="temp.vi" Type="VI" URL="../temp.vi"/>
 		<Item Name="Total SV.vi" Type="VI" URL="../Total SV.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
