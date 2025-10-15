@@ -61,11 +61,16 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="BESTXYZ.vi" Type="VI" URL="../helper/BESTXYZ.vi"/>
 		<Item Name="Create CSVs.vi" Type="VI" URL="../Create CSVs.vi"/>
 		<Item Name="CSV Read Config.vi" Type="VI" URL="../CSV Read Config.vi"/>
+		<Item Name="Filter 1D Array.vi" Type="VI" URL="../Filter 1D Array.vi"/>
+		<Item Name="GPGSV.vi" Type="VI" URL="../helper/GPGSV.vi"/>
+		<Item Name="HWMONITOR.vi" Type="VI" URL="../helper/HWMONITOR.vi"/>
 		<Item Name="Log Parse.vi" Type="VI" URL="../Log Parse.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="temp.vi" Type="VI" URL="../temp.vi"/>
+		<Item Name="Total SV.vi" Type="VI" URL="../Total SV.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
