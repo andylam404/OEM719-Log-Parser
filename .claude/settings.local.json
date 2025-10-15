@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in *.csv)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

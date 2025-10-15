@@ -1,8 +1,3 @@
-"""
-CSV headers for different OEM719 GPS message types.
-"""
-
-# CSV Headers for each message type
 HEADERS = {
     'BESTXYZ': [
         'Time', 'Message', 'Port', 'Sequence', '% Idle Time', 'Time Status', 'Week', 'Seconds',
